@@ -8,6 +8,6 @@ public class HelloWorldController {
 
     @GetMapping("/hello")
     public String sendGreetings() {
-        return "Hello, World!!!! Hoàn Tất Demo Jenkins";
+        return "Hello, World!!!! Hoàn Tất Demo Jenkins_test ok";
     }
 }
